@@ -3,7 +3,7 @@ var path = require('path');
 var assert = require('yeoman-assert');
 var helpers = require('yeoman-test');
 
-describe('generator-node-4-me:app', () => {
+describe('generator-api-express-docker:app', () => {
   beforeAll(() => {
     return helpers.run(path.join(__dirname, '../generators/app'))
       .withPrompts({
