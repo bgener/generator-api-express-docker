@@ -2,6 +2,7 @@ language: node_js
 node_js:
   - 7
   - 6
+after_script: 'cat ./coverage/lcov.info | coveralls'
 deploy:
   provider: npm
   email: "pe@sudomail.com"
