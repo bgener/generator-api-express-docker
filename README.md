@@ -1,4 +1,4 @@
-# generator-api-express-docker [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-api-express-docker [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status][coveralls-image]][coveralls-url]
 > An express template suiting my needs and maybe yours.
 
 ## What you'll get
@@ -71,3 +71,6 @@ MIT © [Pierre-Etienne Cherière](https://www.linkedin.com/in/pecheriere/)
 [travis-url]: https://travis-ci.org/pecheriere/generator-api-express-docker
 [daviddm-image]: https://david-dm.org/pecheriere/generator-api-express-docker.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/pecheriere/generator-api-express-docker
+[coveralls-image]: https://coveralls.io/repos/pecheriere/generator-api-express-docker/badge.svg?branch=master&service=github
+[coveralls-url]: https://coveralls.io/github/pecheriere/generator-api-express-docker?branch=master
+
