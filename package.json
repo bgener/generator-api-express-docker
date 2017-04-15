@@ -1,6 +1,6 @@
 {
   "name": "generator-api-express-docker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A minimalist express template. Babel / ESLint / nodemon, all of this inside a Docker image",
   "homepage": "https://github.com/pecheriere/generator-api-express-docker",
   "author": {
