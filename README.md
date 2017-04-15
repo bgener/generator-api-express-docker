@@ -43,7 +43,7 @@ npm install -g generator-api-express-docker
 Then generate your new project:
 
 ```bash
-yo node-4-me
+yo api-express-docker
 ```
 ## Next
 
