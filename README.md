@@ -58,6 +58,7 @@ yo api-express-docker
 - Add [nsp](https://www.npmjs.com/package/nsp)
 - Add WebStorm meta ?
 - Add [Flow](https://flow.org/) ?
+- More ?
 
 ## License
 
